@@ -1,0 +1,21 @@
+.footer {
+	width: 100%;
+	color: #fff;
+  margin-top: 10px;
+  }
+
+a {
+	color: #69b40f !important;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #fff !important;
+  background-color: #69b40f !important;
+}
+
+a:active {
+ color: #fff !important;
+  background-color: #69b40f !important; 
+}
+
