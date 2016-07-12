@@ -5,17 +5,17 @@
   }
 
 a {
-	color: #69b40f !important;
+	color: #f60361 !important;
   font-weight: bold;
 }
 
 a:hover {
   color: #fff !important;
-  background-color: #69b40f !important;
+  background-color: #f60361 !important;
 }
 
 a:active {
  color: #fff !important;
-  background-color: #69b40f !important; 
+  background-color: #f60361 !important;
 }
 
