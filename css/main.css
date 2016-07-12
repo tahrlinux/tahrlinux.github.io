@@ -1,3 +1,8 @@
+.gnome {
+     background-position:center;
+     background-image:url(../images/gnome.png) no-repeat;
+}
+
 .footer {
 	width: 100%;
 	color: #fff;
